@@ -1,2 +1,2 @@
 # MyFitstRepo
-belajar github pertama test 1 
+belajar github pertama test 2
